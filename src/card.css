@@ -1,0 +1,29 @@
+.customCardBody .table
+{
+	display:flex;
+	color: white;
+	
+}
+.customCardBody   tr{
+	display: flex;
+	
+}
+.customCardBody   th{
+	display: flex;
+	justify-content: center;
+	
+}
+
+.customCardBody td:nth-child(1)
+{
+	
+	flex:0.5;
+	color: rgb(139, 231, 200);
+	
+}
+.customCardBody td:nth-child(2)
+{
+	
+	flex:1;
+	
+}
